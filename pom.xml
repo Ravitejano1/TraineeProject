@@ -28,8 +28,7 @@
   </dependencies>
 
   <build>
-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
-      <plugins>	    
+    <plugins>	    
 		<plugin>
           <artifactId>maven-war-deploy</artifactId>
           <version>3.0.0</version>
@@ -73,8 +72,7 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
-      </plugins>
-    </pluginManagement>
-	<finalname>Traineeproject</finalnamename>
+    </plugins>
+        <finalname>Traineeproject</finalnamename>
   </build>
 </project>
