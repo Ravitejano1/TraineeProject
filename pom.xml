@@ -73,6 +73,6 @@
           <version>3.0.0</version>
         </plugin>
     </plugins>
-        <finalname>Traineeproject</finalnamename>
+       <finalName>Traineeproject</finalName> 
   </build>
 </project>
