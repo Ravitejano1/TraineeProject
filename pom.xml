@@ -75,6 +75,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
-	<Finalname>Traineeproject</Finalnamename>
+	<finalname>Traineeproject</finalnamename>
   </build>
 </project>
