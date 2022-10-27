@@ -6,6 +6,7 @@
 
   <groupId>SoftwareDeveloper</groupId>
   <artifactId>Traineeproject</artifactId>
+  <packaging>war</packaging>
   <version>1.5</version>
 
   <name>Traineeprojectwar Maven Webapp</name>
