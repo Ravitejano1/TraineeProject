@@ -24,7 +24,7 @@ node{
 '''
    }*/
    stage('Deploy to Tomcat'){
-     bat "copy target\\TraineeProject.war \"${tomcatWeb}\\TraineeProject.war\""
+     bat "copy target\\Traineeproject.war \"${tomcatWeb}\\Traineeproject.war\""
    }
       stage ('Start Tomcat Server') {
          sleep(time:5,unit:"SECONDS") 
